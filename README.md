@@ -1,4 +1,3 @@
-# Automatic-Attendance-Management-System-
 
 This project develop in python language & store database also.
 
